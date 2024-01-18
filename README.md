@@ -69,7 +69,7 @@ Cliquez sur “JE SUIS VACATAIRE”
 
 ![](.gitbook/assets/image2.png)
 
-Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points 3.1.2. et 3.1.3.
+Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points 3.2.2. et 3.2.3.
 
 Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGISTRER”
 
