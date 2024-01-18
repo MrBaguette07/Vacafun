@@ -1,8 +1,6 @@
 # Documentation utilisateur vacafun
 
-**INSTITUT UNIVERSITAIRE D’INFORMATIQUE - ANNÉE 2023 - 2024**
-**PROJET ANNUAIRE POUR VACATAIRES**
-**DOCUMENTATION UTILISATEURS**
+**INSTITUT UNIVERSITAIRE D’INFORMATIQUE - ANNÉE 2023 - 2024** **PROJET ANNUAIRE POUR VACATAIRES** **DOCUMENTATION UTILISATEURS**
 
 > Version 1.0
 
@@ -41,7 +39,6 @@ Toutes actions entreprises doivent être conformes au Règlement Général sur l
 Copyright aux auteurs.
 ```
 
-
 ## 1. PRÉSENTATION DU DOCUMENT
 
 ### 1.1. But du document
@@ -51,7 +48,6 @@ Le but de ce document est de synthétiser l’ensemble des fonctions qu’a le p
 ### 1.2 Cadre du document
 
 Ce document a été réalisé pour répondre aux besoins exprimés par la cliente Mme Fernandez.
-
 
 ## 2. CONFIGURATION
 
@@ -69,14 +65,13 @@ Cliquez sur “JE SUIS VACATAIRE”
 
 ![](.gitbook/assets/image2.png)
 
-Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points 3.2.2. et 3.2.3.
+Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points [3.2.2.](./#id-3.2.2) et [3.2.3.](./#id-3.2.3.-historique-de-ressources)
 
 Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGISTRER”
 
 ![](.gitbook/assets/image3.png)
 
 Une fois votre fiche validée par un administrateur, vous pourrez consulter vos informations et les modifier au besoin.
-
 
 ### 2.3. Se connecter à son compte
 
@@ -104,14 +99,13 @@ Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le p
 
 ![](.gitbook/assets/image7.png)
 
-
-#### 3.2.2. **Compétences**
+#### 3.2.2. **Compétences** <a href="#id-3.2.2" id="id-3.2.2"></a>
 
 Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de compétences.
 
 ![](.gitbook/assets/image8.png)
 
-##### 3.2.2.1. **Ajouter**
+**3.2.2.1. Ajouter**
 
 Cliquez sur le bouton “+” pour ajouter une nouvelle compétence
 
@@ -127,7 +121,7 @@ Une fois que vous avez sélectionné vos compétences, cliquez sur le bouton “
 
 ![](.gitbook/assets/image11.png)
 
-##### 3.2.2.2. **Supprimer**
+**3.2.2.2. Supprimer**
 
 Cliquez sur le “x” sur la compétence à supprimer pour la retirer.
 
@@ -141,7 +135,7 @@ Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le p
 
 ![](.gitbook/assets/image14.png)
 
-##### 3.2.3.1. **Ajouter**
+**3.2.3.1. Ajouter**
 
 Cliquez sur le bouton “+” pour ajouter une nouvelle ressource
 
@@ -151,7 +145,7 @@ Une pop-up apparaît à l’écran. Une fois les informations remplies, cliquez 
 
 ![](.gitbook/assets/image16.png)
 
-##### 3.2.3.2. **Modifier**
+**3.2.3.2. Modifier**
 
 Cliquez sur la ligne correspondant à la ressource à modifier.
 
@@ -161,7 +155,7 @@ Une pop-up apparaît à l’écran. Une fois vos modifications réalisées, cliq
 
 ![](.gitbook/assets/image18.png)
 
-##### 3.2.3.3. **Supprimer**
+**3.2.3.3. Supprimer**
 
 Cliquez sur la ligne correspondant à la ressource à supprimer.
 
@@ -177,20 +171,19 @@ Cliquez sur le bouton indiquant votre état sur la page de fiche personnelle pou
 
 ![](.gitbook/assets/image21.png)
 
-##### 3.2.4.1. **Disponible**
+**3.2.4.1. Disponible**
 
 Cet état indique que vous pouvez être contacté pour effectuer une vacation.
 
 ![](.gitbook/assets/image22.png)
 
-##### 3.2.4.2. **Indisponible**
+**3.2.4.2. Indisponible**
 
-Cet état indique que vous ne serez pas contacté pour effectuer une vacation tant que vous resterez indisponible.
-Pour complètement supprimer vos données, référez vous au point 3.4
+Cet état indique que vous ne serez pas contacté pour effectuer une vacation tant que vous resterez indisponible. Pour complètement supprimer vos données, référez vous au point 3.4
 
 ![](.gitbook/assets/image23.png)
 
-##### 3.2.4.3. **Neutre**
+**3.2.4.3. Neutre**
 
 Cet état indique que vous pouvez ou non être contacté pour effectuer une vacation.
 
@@ -206,4 +199,4 @@ Après avoir effectué des modifications sur votre fiche, vous pouvez les sauveg
 
 Veuillez contacter un administrateur qui supprimera votre compte pour vous en base de données.
 
-Si vous souhaitez juste indiquer de ne pas être contacté pour une vacation, vous pouvez vous référer à l’état indisponible vu au point 3.2.4.2.
+Si vous souhaitez juste indiquer de ne pas être contacté pour une vacation, vous pouvez vous référer à l’état indisponible vu au point [3.2.4.](./#id-3.2.4.-modifier-son-etat)
