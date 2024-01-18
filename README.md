@@ -16,7 +16,7 @@
 > **UNIVERSITÉ DU LITTORAL CÔTE D’OPALE**\
 > **IUT CALAIS-BOULOGNE**\
 > **Rue Louis David - 62100 CALAIS**\
-> **Té3léphone (33) 03.21.19.06.60 Télécopie (33) 03.21.19.06.61**
+> **Téléphone (33) 03.21.19.06.60 Télécopie (33) 03.21.19.06.61**
 
 ### CONTRÔLE DU DOCUMENT
 
@@ -47,15 +47,23 @@ Copyright aux auteurs.
 
 ***
 
-1.  **PRÉSENTATION DU DOCUMENT**
 
-    1.1. **But du document**
 
-    Le but de ce document est de synthétiser l’ensemble des fonctions qu’a le projet d’Annuaire de Vacataires. Cette notice permettra aux vacataires de créer leur compte avec facilité et ensuite le gérer de manière complètement autonome.
+## 1. PRÉSENTATION DU DOCUMENT
 
-    1.2. **Cadre du document**
+### 1.1. But du document&#x20;
 
-    Ce document a été réalisé pour répondre aux besoins exprimés par la cliente Mme Fernandez.
+Le but de ce document est de synthétiser l’ensemble des fonctions qu’a le projet d’Annuaire de Vacataires. Cette notice permettra aux vacataires de créer leur compte avec facilité et ensuite le gérer de manière complètement autonome.
+
+
+
+### 1.2 Cadre du document
+
+Ce document a été réalisé pour répondre aux besoins exprimés par la cliente Mme Fernandez.
+
+
+
+
 
 ***
 
@@ -75,21 +83,23 @@ Copyright aux auteurs.
 
     Vous arrivez par défaut sur la page de connexion. Cliquez sur “S’ENREGISTRER”
 
-    Cliquez sur “JE SUIS VACATAIRE”
+    ![](.gitbook/assets/image1.png)
 
-    Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez-vous respectivement aux points [3.1.2](broken-reference) et [3.1.3](broken-reference) .
+Cliquez sur “JE SUIS VACATAIRE”
 
-    Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGISTRER”
+Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points [3.1.2](broken-reference) et [3.1.3](broken-reference) .
 
-    Une fois votre fiche validée par un administrateur, vous pourrez consulter vos informations et les modifier au besoin.
+Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGISTRER”
 
-    ***
+Une fois votre fiche validée par un administrateur, vous pourrez consulter vos informations et les modifier au besoin.
 
-    2.3. **Se connecter à son compte**
+***
 
-    Renseignez votre email et mot de passe puis cliquez sur “SE CONNECTER”.
+2.3. **Se connecter à son compte**
 
-    Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch, sinon cliquez dessus.
+Renseignez votre email et mot de passe puis cliquez sur “SE CONNECTER”.
+
+Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch, sinon cliquez dessus.
 
 ***
 
