@@ -44,7 +44,7 @@ Copyright aux auteurs.
 
 ## 1. PRÉSENTATION DU DOCUMENT
 
-### 1.1. But du document;
+### 1.1. But du document
 
 Le but de ce document est de synthétiser l’ensemble des fonctions qu’a le projet d’Annuaire de Vacataires. Cette notice permettra aux vacataires de créer leur compte avec facilité et ensuite le gérer de manière complètement autonome.
 
@@ -67,9 +67,13 @@ Vous arrivez par défaut sur la page de connexion. Cliquez sur “S’ENREGISTRE
 
 Cliquez sur “JE SUIS VACATAIRE”
 
-Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points [3.1.2](broken-reference) et [3.1.3](broken-reference) .
+![](.gitbook/assets/image2.png)
+
+Vous arrivez sur une page où vous pouvez ainsi renseigner vos informations personnelles. Pour plus de détail sur le fonctionnement des compétences et de l’historique, référez vous respectivement aux points 3.1.2. et 3.1.3.
 
 Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGISTRER”
+
+![](.gitbook/assets/image3.png)
 
 Une fois votre fiche validée par un administrateur, vous pourrez consulter vos informations et les modifier au besoin.
 
@@ -80,84 +84,126 @@ Renseignez votre email et mot de passe puis cliquez sur “SE CONNECTER”.
 
 Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch, sinon cliquez dessus.
 
+![](.gitbook/assets/image4.png)
 
 ## 3. VUE D'ENSEMBLE
 
 ### 3.1. **Menu**
 
+![](.gitbook/assets/image5.png)
+
 ### 3.2. **Mettre à jour sa fiche détaillée**
 
 ATTENTION, merci de cliquer sur le bouton “SAUVEGARDER” après avoir effectué vos modifications.
 
-####   **Informations personnelles**
+![](.gitbook/assets/image6.png)
 
-Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel d’informations personnelles
+#### 3.2.1. **Informations personnelles**
+
+Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel d’informations personnelles.
+
+![](.gitbook/assets/image7.png)
 
 
-####   **Compétences**
+#### 3.2.2. **Compétences**
 
 Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de compétences.
 
-#####   **Ajouter**
+![](.gitbook/assets/image8.png)
+
+##### 3.2.2.1. **Ajouter**
 
 Cliquez sur le bouton “+” pour ajouter une nouvelle compétence
+
+![](.gitbook/assets/image9.png)
 
 Une pop-up s’affiche à l’écran. Vous pouvez ainsi choisir les compétences qui vous conviennent en cliquant sur celles-ci dans la liste.
 
 Vous pouvez également effectuer une recherche parmi les compétences pour plus d'efficacité.
 
+![](.gitbook/assets/image10.png)
+
 Une fois que vous avez sélectionné vos compétences, cliquez sur le bouton “AJOUTER”.
 
-#####   **Supprimer**
+![](.gitbook/assets/image11.png)
+
+##### 3.2.2.2. **Supprimer**
 
 Cliquez sur le “x” sur la compétence à supprimer pour la retirer.
 
+![](.gitbook/assets/image12.png)
 
-####   **Historique de ressources**
+#### 3.2.3. **Historique de ressources**
 
-Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de compétences
+Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de l'historique.
 
-#####   **Ajouter**
+![](.gitbook/assets/image13.png)
+
+![](.gitbook/assets/image14.png)
+
+##### 3.2.3.1. **Ajouter**
 
 Cliquez sur le bouton “+” pour ajouter une nouvelle ressource
 
+![](.gitbook/assets/image15.png)
+
 Une pop-up apparaît à l’écran. Une fois les informations remplies, cliquez sur “AJOUTER”.
 
-#####   **Modifier**
+![](.gitbook/assets/image16.png)
+
+##### 3.2.3.2. **Modifier**
 
 Cliquez sur la ligne correspondant à la ressource à modifier.
 
+![](.gitbook/assets/image17.png)
+
 Une pop-up apparaît à l’écran. Une fois vos modifications réalisées, cliquez sur “METTRE À JOUR”.
 
-#####   **Supprimer**
+![](.gitbook/assets/image18.png)
+
+##### 3.2.3.3. **Supprimer**
 
 Cliquez sur la ligne correspondant à la ressource à supprimer.
 
- Une pop-up apparaît à l’écran. Cliquez sur “SUPPRIMER”.
+![](.gitbook/assets/image19.png)
 
-####   **Modifier son état**
+Une pop-up apparaît à l’écran. Cliquez sur “SUPPRIMER”.
+
+![](.gitbook/assets/image20.png)
+
+#### 3.2.4. **Modifier son état**
 
 Cliquez sur le bouton indiquant votre état sur la page de fiche personnelle pour le modifier
 
-#####   **Disponible**
+![](.gitbook/assets/image21.png)
+
+##### 3.2.4.1. **Disponible**
 
 Cet état indique que vous pouvez être contacté pour effectuer une vacation.
 
-#####   **Indisponible**
+![](.gitbook/assets/image22.png)
+
+##### 3.2.4.2. **Indisponible**
 
 Cet état indique que vous ne serez pas contacté pour effectuer une vacation tant que vous resterez indisponible.
-Pour complètement supprimer vos données, référez vous au point [3.4](broken-reference)
+Pour complètement supprimer vos données, référez vous au point 3.4
 
-#####   **Neutre**
+![](.gitbook/assets/image23.png)
+
+##### 3.2.4.3. **Neutre**
 
 Cet état indique que vous pouvez ou non être contacté pour effectuer une vacation.
+
+![](.gitbook/assets/image24.png)
 
 ### 3.3. **Enregistrer ses informations**
 
 Après avoir effectué des modifications sur votre fiche, vous pouvez les sauvegarder en cliquant sur le bouton “SAUVEGARDER”. La sauvegarde n'est pas automatique, si vous quittez la page sans sauvegarder, vos changements ne seront pas enregistrés.
 
+![](.gitbook/assets/image25.png)
+
 ### 3.4. **Supprimer son compte**
 
 Veuillez contacter un administrateur qui supprimera votre compte pour vous en base de données.
 
-Si vous souhaitez juste indiquer de ne pas être contacté pour une vacation, vous pouvez vous référer à l’état indisponible vu au point [Indisponible](broken-reference)
+Si vous souhaitez juste indiquer de ne pas être contacté pour une vacation, vous pouvez vous référer à l’état indisponible vu au point 3.2.4.2.
