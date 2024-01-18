@@ -1,10 +1,8 @@
 # Documentation utilisateur vacafun
 
-## **INSTITUT UNIVERSITAIRE D’INFORMATIQUE - ANNÉE 2023 - 2024**
-
-## PROJET ANNUAIRE POUR VACATAIRES
-
-### DOCUMENTATION UTILISATEURS
+**INSTITUT UNIVERSITAIRE D’INFORMATIQUE - ANNÉE 2023 - 2024**
+**PROJET ANNUAIRE POUR VACATAIRES**
+**DOCUMENTATION UTILISATEURS**
 
 > Version 1.0
 
@@ -20,18 +18,18 @@
 
 ### CONTRÔLE DU DOCUMENT
 
-**Historique des versions**
+#### Historique des versions
 
 | Date       | Version | Auteur                                           | Principales modifications              |
 | ---------- | ------- | ------------------------------------------------ | -------------------------------------- |
 | 14/11/2023 | 1.0     | Laurane MOURONVAL                                | Première rédaction de la documentation |
 | 18/01/2023 | 2.0     | <p>Laurane MOURONVAL<br>Gauthier CORIONORION</p> | Ajouts d'éléments et correction        |
 
-**Distribution**
+#### **Distribution**
 
 L’équipe de développement.
 
-**Sécurité et confidentialité**
+#### **Sécurité et confidentialité**
 
 ```
 Tout salarié de VacaFun est tenu au secret des savoir-faire de l’entreprise en vertu de l’article L. 1227-1 du Code du Travail.
@@ -43,15 +41,10 @@ Toutes actions entreprises doivent être conformes au Règlement Général sur l
 Copyright aux auteurs.
 ```
 
-***
-
-***
-
-
 
 ## 1. PRÉSENTATION DU DOCUMENT
 
-### 1.1. But du document&#x20;
+### 1.1. But du document;
 
 Le but de ce document est de synthétiser l’ensemble des fonctions qu’a le projet d’Annuaire de Vacataires. Cette notice permettra aux vacataires de créer leur compte avec facilité et ensuite le gérer de manière complètement autonome.
 
@@ -61,15 +54,16 @@ Ce document a été réalisé pour répondre aux besoins exprimés par la client
 
 
 ## 2. CONFIGURATION
-    2.1. **Accéder à l’application**
 
-    Vous pouvez accéder au site sur votre appareil (téléphone ou pc) via le lien : [https://annuvac.french-heberg.com/](https://annuvac.french-heberg.com/)
+### 2.1. Accéder à l’application
 
-    2.2. **Créer son compte**
+Vous pouvez accéder au site sur votre appareil (téléphone ou pc) via le lien : [https://annuvac.french-heberg.com/](https://annuvac.french-heberg.com/)
 
-    Vous arrivez par défaut sur la page de connexion. Cliquez sur “S’ENREGISTRER”
+### 2.2. Créer son compte
 
-    ![](.gitbook/assets/image1.png)
+Vous arrivez par défaut sur la page de connexion. Cliquez sur “S’ENREGISTRER”
+
+![](.gitbook/assets/image1.png)
 
 Cliquez sur “JE SUIS VACATAIRE”
 
@@ -79,45 +73,41 @@ Une fois que vous avez rempli toutes vos informations, cliquez sur “S’ENREGI
 
 Une fois votre fiche validée par un administrateur, vous pourrez consulter vos informations et les modifier au besoin.
 
-***
 
-2.3. **Se connecter à son compte**
+### 2.3. Se connecter à son compte
 
 Renseignez votre email et mot de passe puis cliquez sur “SE CONNECTER”.
 
 Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch, sinon cliquez dessus.
 
-***
 
-***
-
-3.  **VUE D'ENSEMBLE**
+## 3. VUE D'ENSEMBLE
 
     ***
 
-    3.1. **Menu**
+### 3.1. **Menu**
 
     ***
 
-    3.2. **Mettre à jour sa fiche détaillée**
+### 3.2. **Mettre à jour sa fiche détaillée**
 
     ATTENTION, merci de cliquer sur le bouton “SAUVEGARDER” après avoir effectué vos modifications.
 
     ***
 
-    *   **Informations personnelles**
+####   **Informations personnelles**
 
         Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel d’informations personnelles
 
     ***
 
-    *   **Compétences**
+####   **Compétences**
 
         Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de compétences.
 
         ***
 
-        *   **Ajouter**
+#####   **Ajouter**
 
             Cliquez sur le bouton “+” pour ajouter une nouvelle compétence
 
@@ -129,19 +119,19 @@ Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch,
 
         ***
 
-        *   **Supprimer**
+#####   **Supprimer**
 
             Cliquez sur le “x” sur la compétence à supprimer pour la retirer.
 
     ***
 
-    *   **Historique de ressources**
+####   **Historique de ressources**
 
         Cliquez sur le bouton avec l’icône de modification pour pouvoir modifier le panel de compétences
 
         ***
 
-        *   **Ajouter**
+#####   **Ajouter**
 
             Cliquez sur le bouton “+” pour ajouter une nouvelle ressource
 
@@ -149,7 +139,7 @@ Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch,
 
         ***
 
-        *   **Modifier**
+#####   **Modifier**
 
             Cliquez sur la ligne correspondant à la ressource à modifier.
 
@@ -157,7 +147,7 @@ Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch,
 
         ***
 
-        *   **Supprimer**
+#####   **Supprimer**
 
             Cliquez sur la ligne correspondant à la ressource à supprimer.
 
@@ -165,19 +155,19 @@ Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch,
 
     ***
 
-    *   **Modifier son état**
+####   **Modifier son état**
 
         Cliquez sur le bouton indiquant votre état sur la page de fiche personnelle pour le modifier
 
         ***
 
-        *   **Disponible**
+#####   **Disponible**
 
             Cet état indique que vous pouvez être contacté pour effectuer une vacation.
 
         ***
 
-        *   **Indisponible**
+#####   **Indisponible**
 
             Cet état indique que vous ne serez pas contacté pour effectuer une vacation tant que vous resterez indisponible.
 
@@ -185,19 +175,19 @@ Vérifiez bien que “vacataire” soit écrit à côté du petit bouton switch,
 
         ***
 
-        *   **Neutre**
+#####   **Neutre**
 
             Cet état indique que vous pouvez ou non être contacté pour effectuer une vacation.
 
-    ***
+        ***
 
-    3.3. **Enregistrer ses informations**
+### 3.3. **Enregistrer ses informations**
 
     Après avoir effectué des modifications sur votre fiche, vous pouvez les sauvegarder en cliquant sur le bouton “SAUVEGARDER”. La sauvegarde n'est pas automatique, si vous quittez la page sans sauvegarder, vos changements ne seront pas enregistrés.
 
-    ***
+        ***
 
-    3.4. **Supprimer son compte**
+### 3.4. **Supprimer son compte**
 
     Veuillez contacter un administrateur qui supprimera votre compte pour vous en base de données.
 
