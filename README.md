@@ -18,11 +18,10 @@
 
 #### Historique des versions
 
-| Date       | Version | Auteur                                      | Principales modifications                       |
-| ---------- | ------- | ------------------------------------------- | ----------------------------------------------- |
-| 14/11/2023 | 1.0     | Laurane MOURONVAL                           | Première rédaction de la documentation          |
-| 18/01/2023 | 2.0     | <p>Laurane MOURONVAL<br>Gauthier CORION</p> | Ajouts d'éléments et correction                 |
-| 18/01/2023 | 3.0     | <p>Laurane MOURONVAL<br>Gauthier CORION</p> | Publication de la documentation sur le site web |
+| Date       | Version | Auteur                                      | Principales modifications              |
+| ---------- | ------- | ------------------------------------------- | -------------------------------------- |
+| 14/11/2023 | 1.0     | Laurane MOURONVAL                           | Première rédaction de la documentation |
+| 18/01/2023 | 2.0     | <p>Laurane MOURONVAL<br>Gauthier CORION</p> | Ajouts d'éléments et correction        |
 
 #### **Distribution**
 
